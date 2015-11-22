@@ -240,6 +240,10 @@
     <relatedLists>
         <relatedList>RelatedOpportunityHistoryList</relatedList>
     </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
+        <relatedList>Github_Project__c.Opportunity__c</relatedList>
+    </relatedLists>
     <relatedObjects>AccountId</relatedObjects>
     <runAssignmentRulesDefault>false</runAssignmentRulesDefault>
     <showEmailCheckbox>true</showEmailCheckbox>

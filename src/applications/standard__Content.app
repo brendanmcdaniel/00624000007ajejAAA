@@ -6,4 +6,5 @@
     <tab>standard-ContentSearch</tab>
     <tab>standard-ContentSubscriptions</tab>
     <tab>standard-ContentFavorites</tab>
+    <tab>Github_Project__c</tab>
 </CustomApplication>

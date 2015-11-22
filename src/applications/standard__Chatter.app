@@ -6,4 +6,5 @@
     <tab>standard-OtherUserProfile</tab>
     <tab>standard-CollaborationGroup</tab>
     <tab>standard-File</tab>
+    <tab>Github_Project__c</tab>
 </CustomApplication>

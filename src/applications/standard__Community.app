@@ -10,4 +10,5 @@
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
     <tab>standard-Questions</tab>
+    <tab>Github_Project__c</tab>
 </CustomApplication>

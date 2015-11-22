@@ -6,4 +6,5 @@
     <tab>standard-Contact</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
+    <tab>Github_Project__c</tab>
 </CustomApplication>
